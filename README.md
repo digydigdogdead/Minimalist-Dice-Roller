@@ -1,5 +1,5 @@
-# SimpleDiceRoller for Android
-Simple Dice Roller is an android app that you can use to generate random numbers and simulate any of the 7 dice in a standard set of RPG dice. It also allows you to generate dice of any number of sides.
+# Minimalist Dice Roller for Android
+Minimalist Dice Roller is an android app that you can use to generate random numbers and simulate any of the 7 dice in a standard set of RPG dice. It also allows you to generate dice of any number of sides.
 I use dice rolling apps on my phone frequently, and am often frustrated by how long they take to launch (usually due to using complicated engines like Unity for such a simple task, or ads) and how long they can take to use (long animations). So, I decided to learn some basic MAUI and make the lightweight app I've been looking for myself.
 
 ## Features
